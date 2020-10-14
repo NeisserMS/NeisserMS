@@ -3,8 +3,8 @@
 
 ## HOLA 👋
 
-#### Soy aún estudiante de la carrera Ingeniería de Computación y Sistemas de la UPAO. 
-#### Mi objetivo es compartir lo que he aprendido durante mi fase de desarrollo en la carrera, espero sea útil.⚡ 
+#### Blog Organizacional (https://khanakat.com/) :notebook:
+
 <!--
 **NeisserMS/NeisserMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
