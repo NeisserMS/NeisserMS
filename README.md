@@ -1,5 +1,9 @@
-### Hi there 👋
 
+![GitHub Logo](Portadita.png)
+
+## HOLA 👋
+
+#### Soy aún estudiante de Ingeniería de Computación y Sistemas de la Universidad Privada Antenor Orrego. En estos repositorios comparto lo que aprendí durante mi carrera y lo que estoy aprendiendo por mi cuenta, espero te sea útil.  ⚡ 
 <!--
 **NeisserMS/NeisserMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
