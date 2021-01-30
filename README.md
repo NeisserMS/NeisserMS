@@ -1,5 +1,5 @@
 
-### <div align="center">Hola, soy aún estudiante de Ingeniería de Computación y Sistemas 👨‍💻 </div>  
+# <div align="center">Hola, soy aún estudiante de Ingeniería de Computación y Sistemas 👨‍💻 </div>  
   
 
 - 🔭 Actualmente pertenezco a un grupo autodidacta llamado Khanakat donde compartimos tips y buenas practicas sobre desarrollo de software.  
@@ -58,26 +58,5 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/neissersanchez" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 
