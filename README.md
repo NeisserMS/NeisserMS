@@ -1,5 +1,4 @@
 
-
 ### <div align="center">Hola, soy aún estudiante de Ingeniería de Computación y Sistemas 👨‍💻 </div>  
   
 
@@ -13,8 +12,7 @@
 
 
 ## My Skill Set  
-
-### Frontend  
+ 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -24,8 +22,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 </td><td valign="top" width="33%">
 
@@ -76,7 +72,7 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/https://ko-fi.com/neissersanchez" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/neissersanchez" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
@@ -84,5 +80,4 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
