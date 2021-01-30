@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">Hola, soy aún estudiante de Ingeniería de Computación y Sistemas 👨‍💻 </div>  
   
@@ -16,9 +13,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
