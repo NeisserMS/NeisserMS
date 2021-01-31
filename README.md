@@ -1,5 +1,6 @@
 
 ## <div align="center">Hola, soy aún estudiante de Ingeniería de Computación y Sistemas 👨‍💻 </div>  
+ <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'C0C01KIR7');kofiwidget2.draw();</script> 
   
 
 - 🔭 Actualmente pertenezco a un grupo autodidacta llamado Khanakat donde compartimos tips y buenas practicas sobre desarrollo de software.  
@@ -43,7 +44,6 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
