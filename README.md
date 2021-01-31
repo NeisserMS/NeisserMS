@@ -42,13 +42,14 @@
 <a href="https://www.youtube.com/channel/UC0czkwt1PdL6SkjIvuuiusQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+ <a href='https://ko-fi.com/C0C01KIR7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>  
 
 <br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NeisserMS&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<a href='https://ko-fi.com/C0C01KIR7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 
 
