@@ -1,12 +1,6 @@
 
-## <div align="center">Hola, soy aún estudiante de Ingeniería de Computación y Sistemas 👨‍💻 </div>  
- 
+## <div align="center">Hola, puedes tomar o contribuir en cualquiera de mis proyectos 👨‍💻 </div>  
 
-- 🔭 Actualmente pertenezco a un grupo autodidacta llamado Khanakat donde compartimos tips y buenas practicas sobre desarrollo de software.  
-  
-
-- 🌱 Sigo aprendiendo para ser Desarrollador Frontend  
-  
 
 <br/>  
 
