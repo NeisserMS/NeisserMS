@@ -29,7 +29,10 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NeisserMS&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div>
+  <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=NeisserMS&show_icons=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=0d1117&hide_border=true"/>
+  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeisserMS&layout=compact&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=0d1117&hide_border=true"/>
+</div>  
 
 ## Ko-fi
 
