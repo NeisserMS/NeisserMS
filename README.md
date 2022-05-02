@@ -28,14 +28,12 @@
 
 <br/>  
 
-## Github Stats  
 <div>
   <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=NeisserMS&show_icons=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=0d1117&hide_border=true"/>
   <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeisserMS&layout=compact&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=0d1117&hide_border=true"/>
 </div>  
 
 ## Ko-fi
-
 <a href='https://ko-fi.com/C0C01KIR7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
