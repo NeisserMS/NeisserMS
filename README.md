@@ -1,9 +1,6 @@
 
 ## <div> Hello, you can take or contribute to any of my projects 👨‍💻 </div>  
 
-
-<br/>  
-
 </td><td valign="top" width="33%">
 
 <br/>  
