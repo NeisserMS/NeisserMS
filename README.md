@@ -1,11 +1,11 @@
 
-## <div> Hello, you can take or contribute to any of my projects 👨‍💻 </div>  
+## <div> Holaaa, bienvenido a mi perfil. 👨‍💻 </div>  
 
 </td><td valign="top" width="33%">
 
 <br/>  
 
-## Connect with me  
+## Contáctame  
 <div>
 <a href="https://linkedin.com/in/neisser-arilson-moreno-s%C3%A1nchez-3178161a7/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
