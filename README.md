@@ -1,5 +1,5 @@
 
-## <div> Holaaa, bienvenido a mi perfil. 👨‍💻 </div>  
+## <div> Hola, bienvenido a mi perfil 💻 </div>  
 
 </td><td valign="top" width="33%">
 
