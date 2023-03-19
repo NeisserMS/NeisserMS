@@ -7,7 +7,7 @@
 
 ## Contáctame  
 <div>
-<a href="https://linkedin.com/in/neisser-arilson-moreno-s%C3%A1nchez-3178161a7/" target="_blank">
+<a href="https://www.linkedin.com/in/neissermoreno/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/neisserarilson.morenosanchez.9" target="_blank">
